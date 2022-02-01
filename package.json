@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Alexandria201/geometric-formula/issues"
   },
-  "homepage": "https://github.com/Alexandria201/geometric-formula#readme"
+  "homepage": "https://github.com/Alexandria201/geometric-formula#readme",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  }
 }
